@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+
+
+
+
+🌱 I’m currently learning ...
+
+
+
+
+
 <!--
 **rud8744/rud8744** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
