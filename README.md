@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-
+<a href="https://www.python.org/" target="_blank"><img src="https://img.shields.io/badge/#3776ABstyle=flat-square&logo=#3776AB&logoColor=white"/></a>
 
 
 🌱 I’m currently learning ...
