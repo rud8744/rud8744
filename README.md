@@ -8,7 +8,7 @@
     <a href="https://matplotlib.org/"><img src="https://img.shields.io/badge/matplotlib-blue.svg?logo=matplotlib&logoColor=white&style=for-the-badge" alt="Matplotlib"></a>
  
 <p align="center">
-    <a href="https://rud8744.tistory.com/3"><img src="https://img.shields.io/badge/데이터가공-ffffff.svg?style=for-the-badge" alt="데이터 분석 - 가공편"></a>
+    <a href="https://rud8744.tistory.com/3"><img src="https://img.shields.io/badge/데이터 분석 - 가공편-ffffff.svg?style=for-the-badge" alt="데이터 분석 - 가공편"></a>
 </p>
 
 <br>
