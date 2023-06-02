@@ -1,9 +1,12 @@
-### Hi there 👋
+<div align="center">
+    [![Python](https://img.shields.io/badge/Python-3.9-blue.svg)](https://www.python.org/)
+</div>
+
+<div align="center">
+    [![Python](https://img.shields.io/badge/Python-3.9-blue.svg)](https://www.python.org/)
+</div>
 
 
-[![Python](https://img.shields.io/badge/Python-blue.svg)](https://www.python.org/)
-
-🌱 I’m currently learning ...
 
 
 
