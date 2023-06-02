@@ -11,6 +11,12 @@
 
 
 
+
+<p align="center">
+    <a href="https://www.uipath.com/"><img src="https://img.shields.io/badge/UiPath-orange.svg?logo=uipath&logoColor=white&style=for-the-badge" alt="UiPath"></a>
+</p>
+
+
 <!--
 **rud8744/rud8744** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
