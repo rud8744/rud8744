@@ -1,8 +1,6 @@
 <p align="center">
-    <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3.9-blue.svg" alt="Python"></a>
+    <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-blue.svg?logo=python&logoColor=white&style=for-the-badge" alt="Python"></a>
 </p>
-
-
 
 
 
