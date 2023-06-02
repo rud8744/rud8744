@@ -3,6 +3,12 @@
 </p>
 
 
+<p align="center">
+    <a href="https://pandas.pydata.org/"><img src="https://img.shields.io/badge/pandas-blue.svg?logo=pandas&logoColor=white&style=for-the-badge" alt="Pandas"></a>
+    <a href="https://numpy.org/"><img src="https://img.shields.io/badge/numpy-blue.svg?logo=numpy&logoColor=white&style=for-the-badge" alt="NumPy"></a>
+    <a href="https://matplotlib.org/"><img src="https://img.shields.io/badge/matplotlib-blue.svg?logo=matplotlib&logoColor=white&style=for-the-badge" alt="Matplotlib"></a>
+</p>
+
 
 
 
