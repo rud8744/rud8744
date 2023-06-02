@@ -1,9 +1,6 @@
-<div align="center">
-    [![Python](https://img.shields.io/badge/Python-3.9-blue.svg)](https://www.python.org/)
-</div>
-<div align="center">
-    [![Python](https://img.shields.io/badge/Python-3.9-blue.svg)](https://www.python.org/)
-</div>
+<p align="center">
+    <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3.9-blue.svg" alt="Python"></a>
+</p>
 
 
 
