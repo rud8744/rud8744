@@ -1,4 +1,11 @@
 <p align="center">
+    <a> "▽ 아래 뱃지를 클릭하면 연결된 사이트로 이동합니다." </a>
+</p>
+
+<br>
+<br>
+
+<p align="center">
     <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-blue.svg?logo=python&logoColor=white&style=for-the-badge" alt="Python"></a>
 </p>
 
@@ -9,6 +16,7 @@
  
 <p align="center">
     <a href="https://rud8744.tistory.com/3"><img src="https://img.shields.io/badge/데이터 분석 - 가공편-ffffff.svg?style=for-the-badge" alt="데이터 분석 - 가공편"></a>
+    <a href="https://rud8744.tistory.com/4"><img src="https://img.shields.io/badge/데이터 분석 - 시각화편-ffffff.svg?style=for-the-badge" alt="데이터 분석 - 시각화편"></a>
 </p>
 
 <br>
