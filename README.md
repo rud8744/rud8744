@@ -27,6 +27,11 @@
     <a href="https://rud8744.tistory.com/5"><img src="https://img.shields.io/badge/데이터 분석 - 분석편-ffffff.svg?style=for-the-badge" alt="데이터 분석 - 분석편"></a>
 </p>
 
+<p align="center">
+    <a href="https://github.com/rud8744/alpaco/tree/main/%EA%B8%B0%EC%B4%88%ED%95%99%EC%8A%B5"><img src="https://img.shields.io/badge/파이썬 - 기초-ffffff.svg?style=for-the-badge" alt="파이썬 - 기초"></a>
+    <a href="https://github.com/rud8744/alpaco/tree/main/%EB%B3%B5%EC%8A%B5%EC%99%84%EB%A3%8C"><img src="https://img.shields.io/badge/파이썬 - 심화-ffffff.svg?style=for-the-badge" alt="파이썬 - 심화"></a>
+    <a href="https://rud8744.tistory.com/5"><img src="https://img.shields.io/badge/파이썬 - AI-ffffff.svg?style=for-the-badge" alt="파이썬 - AI"></a>
+</p>
 <br>
 <br>
 <br>
