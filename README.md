@@ -1,5 +1,12 @@
 <p align="center">
-    <a> "▽ 아래 뱃지를 클릭하면 연결된 사이트로 이동합니다." </a>
+    <a> ☏ E-mail = rud8744@gmail.com </a>
+</p>
+
+<br>
+<br>
+
+<p align="center">
+    <a> ▽ 아래 뱃지를 클릭하면 연결된 페이지로 이동합니다. </a>
 </p>
 
 <br>
