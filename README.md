@@ -24,6 +24,7 @@
 <p align="center">
     <a href="https://rud8744.tistory.com/3"><img src="https://img.shields.io/badge/데이터 분석 - 가공편-ffffff.svg?style=for-the-badge" alt="데이터 분석 - 가공편"></a>
     <a href="https://rud8744.tistory.com/4"><img src="https://img.shields.io/badge/데이터 분석 - 시각화편-ffffff.svg?style=for-the-badge" alt="데이터 분석 - 시각화편"></a>
+    <a href="https://rud8744.tistory.com/5"><img src="https://img.shields.io/badge/데이터 분석 - 분석편-ffffff.svg?style=for-the-badge" alt="데이터 분석 - 분석편"></a>
 </p>
 
 <br>
