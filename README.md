@@ -43,9 +43,15 @@
     <a href="https://rud8744.tistory.com/7"><img src="https://img.shields.io/badge/UIPATH - CONFIG 사용법-ffffff.svg?style=for-the-badge" alt="UIPATH - CONFIG 사용법"></a>
     <a href="https://rud8744.tistory.com/8"><img src="https://img.shields.io/badge/UIPATH - 심화편-ffffff.svg?style=for-the-badge" alt="UIPATH - 심화편"></a>
 </p>
+
+<p align="center">
+    <a href="https://rud8744.tistory.com/9"><img src="https://img.shields.io/badge/UIPATH - PROJECT.1-ffffff.svg?style=for-the-badge" alt="UIPATH - PROJECT.1"></a>
+</p>
+
 <br>
 <br>
 <br>
+
 <p align="center">
     <a href="https://rud8744.tistory.com/6"><img src="https://img.shields.io/badge/개발노트-ffffff.svg?style=for-the-badge" alt="개발노트"></a>
 </p>
