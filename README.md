@@ -41,6 +41,7 @@
 
 <p align="center">
     <a href="https://rud8744.tistory.com/7"><img src="https://img.shields.io/badge/UIPATH - CONFIG 사용법-ffffff.svg?style=for-the-badge" alt="UIPATH - CONFIG 사용법"></a>
+    <a href="https://rud8744.tistory.com/8"><img src="https://img.shields.io/badge/UIPATH - 심화편-ffffff.svg?style=for-the-badge" alt="UIPATH - 심화편"></a>
 </p>
 <br>
 <br>
