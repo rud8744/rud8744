@@ -40,7 +40,7 @@
 </p>
 
 <p align="center">
-    <a href="https://example.com"><img src="https://img.shields.io/badge/PROJECT.1-ffffff.svg?style=for-the-badge" alt="PROJECT.1"></a>
+    <a href="https://rud8744.tistory.com/7"><img src="https://img.shields.io/badge/UIPATH_CONFIG 사용법-ffffff.svg?style=for-the-badge" alt="UIPATH_CONFIG 사용법"></a>
 </p>
 <br>
 <br>
