@@ -13,7 +13,7 @@
 <br>
 
 <p align="center">
-    <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-blue.svg?logo=python&logoColor=white&style=for-the-badge" alt="Python"></a>
+    🌱<a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-blue.svg?logo=python&logoColor=white&style=for-the-badge" alt="Python"></a>🌱
 </p>
 
 <p align="center">
@@ -38,7 +38,7 @@
 <br>
 
 <p align="center">
-    <a href="https://www.uipath.com/"><img src="https://img.shields.io/badge/RPA-orange.svg?logo=uipath&logoColor=white&style=for-the-badge" alt="UiPath"></a>
+    🌱<a href="https://www.uipath.com/"><img src="https://img.shields.io/badge/RPA-orange.svg?logo=uipath&logoColor=white&style=for-the-badge" alt="UiPath"></a>🌱
 </p>
 
 <p align="center">
