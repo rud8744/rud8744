@@ -22,7 +22,22 @@
     <a href="https://matplotlib.org/"><img src="https://img.shields.io/badge/matplotlib-blue.svg?logo=matplotlib&logoColor=white&style=for-the-badge" alt="Matplotlib"></a>
  
 <p align="center">
-    <a href="https://rud8744.tistory.com/3"><img src="https://img.shields.io/badge/데이터 분석-808080 - 가공편-ffffff.svg?style=for-the-badge" alt="데이터 분석 - 가공편" style="border: 1px solid black;"></a>
+    <svg xmlns="http://www.w3.org/2000/svg" width="150" height="20">
+        <linearGradient id="blue-gradient" gradientTransform="rotate(90)">
+            <stop offset="0%" stop-color="#007BFF" />
+            <stop offset="100%" stop-color="#0056b3" />
+         </linearGradient>
+        <linearGradient id="gray-gradient" gradientTransform="rotate(90)">
+            <stop offset="0%" stop-color="#999999" />
+            <stop offset="100%" stop-color="#666666" />
+        </linearGradient>
+        <rect width="70" height="20" fill="url(#blue-gradient)" />
+        <rect x="70" width="80" height="20" fill="url(#gray-gradient)" />
+        <g fill="#fff" text-anchor="middle" font-family="Verdana" font-size="11">
+            <text x="35" y="15" fill="#fff">데이터분석</text>
+            <text x="115" y="15">시각화편</text>
+        </g>
+    </svg>
     <a href="https://rud8744.tistory.com/3"><img src="https://img.shields.io/badge/데이터 분석 - 가공편-ffffff.svg?style=for-the-badge" alt="데이터 분석 - 가공편" style="border: 1px solid black;"></a>
     <a href="https://rud8744.tistory.com/4"><img src="https://img.shields.io/badge/데이터 분석 - 시각화편-ffffff.svg?style=for-the-badge" alt="데이터 분석 - 시각화편" style="border: 1px solid black;"></a>
     <a href="https://rud8744.tistory.com/5"><img src="https://img.shields.io/badge/데이터 분석 - 분석편-ffffff.svg?style=for-the-badge" alt="데이터 분석 - 분석편" style="border: 1px solid black;"></a>
