@@ -38,7 +38,7 @@
 <br>
 
 <p align="center">
-    <a href="https://www.uipath.com/"><img src="https://img.shields.io/badge/UiPath-orange.svg?logo=uipath&logoColor=white&style=for-the-badge" alt="UiPath"></a>
+    <a href="https://www.uipath.com/"><img src="https://img.shields.io/badge/RPA-orange.svg?logo=uipath&logoColor=white&style=for-the-badge" alt="UiPath"></a>
 </p>
 
 <p align="center">
