@@ -57,7 +57,7 @@
 <br>
 
 <p align="center">
-    <a href="https://rud8744.tistory.com/6"><img src="https://img.shields.io/badge/개발노트-ffffff.svg?style=for-the-badge" alt="개발노트"></a>
+    <a href="https://rud8744.tistory.com/6"><img src="https://img.shields.io/badge/개발노트-525252.svg?style=for-the-badge" alt="개발노트"></a>
 </p>
 
 
