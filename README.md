@@ -45,6 +45,10 @@
 </p>
 
 <p align="center">
+    <a href="https://rud8744.tistory.com/10"><img src="https://img.shields.io/badge/UIPATH - StateMachine-ffffff.svg?style=for-the-badge" alt="UIPATH - StateMachine"></a>
+</p>
+
+<p align="center">
     <a href="https://rud8744.tistory.com/9"><img src="https://img.shields.io/badge/UIPATH - PROJECT.1-ffffff.svg?style=for-the-badge" alt="UIPATH - PROJECT.1"></a>
 </p>
 
