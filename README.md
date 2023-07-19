@@ -42,16 +42,16 @@
 </p>
 
 <p align="center">
-    <a href="https://rud8744.tistory.com/7"><img src="https://img.shields.io/badge/UIPATH - CONFIG 사용법-orange.svg?style=for-the-badge" alt="UIPATH - CONFIG 사용법" style="border: 1px solid black;"></a>
-    <a href="https://rud8744.tistory.com/8"><img src="https://img.shields.io/badge/UIPATH - 심화편-orange.svg?style=for-the-badge" alt="UIPATH - 심화편" style="border: 1px solid black;"></a>
+    <a href="https://rud8744.tistory.com/7"><img src="https://img.shields.io/badge/CONFIG 사용법 - UIPATH-orange" alt="UIPATH - CONFIG 사용법"></a>
+    <a href="https://rud8744.tistory.com/8"><img src="https://img.shields.io/badge/심화편 - UIPATH-orange" alt="UIPATH - 심화편"></a>
 </p>
 
 <p align="center">
-    <a href="https://rud8744.tistory.com/10"><img src="https://img.shields.io/badge/UIPATH - State Machine-orange.svg?style=for-the-badge" alt="UIPATH - State Machine" style="border: 1px solid black;"></a>
+    <a href="https://rud8744.tistory.com/10"><img src="https://img.shields.io/badge/State Machine - UIPATH-orange" alt="UIPATH - State Machine"></a>
 </p>
 
 <p align="center">
-    <a href="https://rud8744.tistory.com/9"><img src="https://img.shields.io/badge/UIPATH - PROJECT.1-orange.svg?style=for-the-badge" alt="UIPATH - PROJECT.1" style="border: 1px solid black;"></a>
+    <a href="https://rud8744.tistory.com/9"><img src="https://img.shields.io/badge/PROJECT.1 - UIPATH-orange" alt="UIPATH - PROJECT.1"></a>
 </p>
 
 <br>
