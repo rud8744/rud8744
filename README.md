@@ -22,7 +22,7 @@
     <a href="https://matplotlib.org/"><img src="https://img.shields.io/badge/matplotlib-blue.svg?logo=matplotlib&logoColor=white&style=for-the-badge" alt="Matplotlib"></a>
  
 <p align="center">
-    <a href="https://rud8744.tistory.com/3"><img src="https://img.shields.io/badge/데이터 분석-ffffff.svg?style=for-the-badge" alt="데이터 분석 - 가공편" style="border: 10px solid black;"></a>
+    <a href="https://rud8744.tistory.com/3"><img src="https://img.shields.io/badge/데이터 분석 - 가공편-ffffff.svg?style=for-the-badge" alt="데이터 분석" style="border: 10px solid black;"></a>
     <a href="https://rud8744.tistory.com/3"><img src="https://img.shields.io/badge/데이터 분석 - 가공편-ffffff.svg?style=for-the-badge" alt="데이터 분석 - 가공편" style="border: 10px solid black;"></a>
     <a href="https://rud8744.tistory.com/4"><img src="https://img.shields.io/badge/데이터 분석 - 시각화편-ffffff.svg?style=for-the-badge" alt="데이터 분석 - 시각화편" style="border: 1px solid black;"></a>
     <a href="https://rud8744.tistory.com/5"><img src="https://img.shields.io/badge/데이터 분석 - 분석편-ffffff.svg?style=for-the-badge" alt="데이터 분석 - 분석편" style="border: 1px solid black;"></a>
