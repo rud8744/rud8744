@@ -43,7 +43,7 @@
 
 <p align="center">
     <a href="https://rud8744.tistory.com/7"><img src="https://img.shields.io/badge/CONFIG 사용법 - UIPATH-orange" alt="UIPATH - CONFIG 사용법"></a>
-    <a href="https://rud8744.tistory.com/8"><img src="https://img.shields.io/badge/심화편 - UIPATH-orange" alt="UIPATH - 심화편"></a>
+    <a href="https://rud8744.tistory.com/8"><img src="https://img.shields.io/badge/심화 - UIPATH-orange" alt="UIPATH - 심화편"></a>
 </p>
 
 <p align="center">
