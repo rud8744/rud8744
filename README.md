@@ -48,6 +48,7 @@
 
 <p align="center">
     <a href="https://rud8744.tistory.com/10"><img src="https://img.shields.io/badge/State Machine - UIPATH-orange" alt="UIPATH - State Machine"></a>
+    <a href="https://rud8744.tistory.com/11"><img src="https://img.shields.io/badge/Web Scraping - UIPATH-orange" alt="UIPATH - Web Scraping"></a>
 </p>
 
 <p align="center">
